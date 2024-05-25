@@ -1,0 +1,39 @@
+div {
+
+text-align: center;
+box-shadow: 0px 0px 20px blue;
+border-radius: 5px ;
+height: 620px;
+width: 500px;
+}
+
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+    margin-top: 20px;
+    color: rgb(99, 12, 240);
+}
+input {
+
+    box-shadow: 0px 0px 5px red;
+    padding: 10px;
+    width: 200px;
+    height: 40px;
+    margin-top: 15px;
+}
+ button{
+
+    font-size: 22px;
+    color: blue;
+ }
+
+ div ul li button {
+
+    color: darkgreen;
+ }
+
+ div ul li {
+
+    font-size: 30px;
+    padding: 5px;
+ }
